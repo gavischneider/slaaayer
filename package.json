@@ -1,0 +1,15 @@
+{
+  "name": "slaaayer",
+  "version": "1.0.8",
+  "description": "Add a little Slayer to your program.",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "slayer",
+    "thrash",
+    "metal",
+    "music"
+  ],
+  "author": "Gavi Schneider",
+  "license": "ISC"
+}
