@@ -13,3 +13,4 @@ const slayer = require(‘slaaayer’);
 console.log(slayer(10));
 // will log: SLAAAAAAAAAAYER! 🤘🏻
 ```
+https://www.npmjs.com/package/slaaayer
